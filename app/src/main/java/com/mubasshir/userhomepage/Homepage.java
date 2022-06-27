@@ -10,7 +10,6 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 public class Homepage extends AppCompatActivity {
-    Button click;
     ImageButton labour;
 
     @Override
