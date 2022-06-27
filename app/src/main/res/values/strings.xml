@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UserHomePage</string>
+    <string name="local_workers">Local Workers</string>
+    <string name="on_demand_services">On-Demand Services</string>
+    <string name="_24_7_available">24/7 Available</string>
+    <string name="todo">TODO</string>
+    <string name="puttur">Puttur</string>
+</resources>
